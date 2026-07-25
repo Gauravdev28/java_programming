@@ -35,6 +35,7 @@ This repository contains my daily Java programming practice as I learn Java from
 > More topics will be added as I continue my Java learning journey.
 
 
+
 ## 🚀 Learning Approach
 
 - 📌 Learn one concept at a time
@@ -59,7 +60,7 @@ I regularly update this repository with new Java practice questions, exercises, 
 If you'd like to connect or follow my learning journey:
 
 - GitHub: https://github.com/Gauravdev28
-- LinkedIn: https://linkedin.com/gauravdeveloper
+- LinkedIn: www.linkedin.com/in/gauravdeveloper
 
 ---
 
