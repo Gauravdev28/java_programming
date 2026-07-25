@@ -11,7 +11,7 @@ public class practise1{
             System.out.print("Enter Total Cart Price RS :");
             int cart_price = sc.nextInt();
             
-            int cart_total =  0;
+            int cart_total = 0;
             
             
             if (cart_price <= 100) {
